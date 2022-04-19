@@ -17,14 +17,16 @@ COST: 250000000000000000
 
 
 
-https://ropsten.etherscan.io/address/0xf9674832b82e08926d323219016cb16d65dceedb
-User wallet
+Contract: https://ropsten.etherscan.io/address/0xf9674832b82e08926d323219016cb16d65dceedb
+User wallet: https://ropsten.etherscan.io/address/0x4ab6260b6b6d86ec854668b95f46d58df936c287
+
 |Uitvoering|Return|Link|
 |----|-----|-------|
 |Mint|Fail with error 'Ownable: caller is not the owner'|https://ropsten.etherscan.io/tx/0xc9f8356b32a3a7be0045fb85c379035295998a2368f585b06775b56723166bab|
-Read Contract met eigen wallet (niet owner)
 
-Owner wallet
+Contract: https://ropsten.etherscan.io/address/0xf9674832b82e08926d323219016cb16d65dceedb
+Owner wallet: https://ropsten.etherscan.io/address/0xe451a4bd7ce249a8ce936ef5f0d00dadedba2b64
+
 |Uitvoering|Return|Link|
 |----|-----|-------|
 |Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0x88d52d5d4c89ccd326c02a0a8d4d27b4f9a57dad75baa6cb95f92f3a048f3c9a|
