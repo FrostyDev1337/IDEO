@@ -34,10 +34,7 @@ Owner wallet: https://ropsten.etherscan.io/address/0xe451a4bd7ce249a8ce936ef5f0d
 |Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0xa6558b5566af7cda28949fb017e75a0c23b8de38fbc9d1fec3bda50150733062|
 |----|-----|-------|
 |Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0x54e32f954b291a99b8fbb8b823567c797228342e823668dc3648a333e5194738|
-
-Resultaat Contract balance: 0.25 ETH -> 1.5 ETH
-
-|Uitvoering|Return|Link|
 |----|-----|-------|
 |Withdraw|FAIL|https://ropsten.etherscan.io/tx/0xac260a6cc29224a56a7a9ba2d6f9f516f4a115b1ae2f2c00a54220f3cd67b9c4|
 
+Resultaat Contract balance: 0.25 ETH -> 1.5 ETH
