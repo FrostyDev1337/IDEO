@@ -1,5 +1,5 @@
 remix-backup-at-16h8min-2022-4-15.zip
-
+COST: 250000000000000000 
 
 |Uitvoering|Return|Link|
 |----|-----|-------|
@@ -13,4 +13,3 @@ remix-backup-at-16h8min-2022-4-15.zip
 |----|-----|-------|
 |mint 1|Check|https://ropsten.etherscan.io/tx/0xcd40642c064296cf3f46d6f15861e56456fbdfb238b558064acd3e1ffc80ef50|
 |----|-----|-------|
-|Setcost 250000000|Check|https://ropsten.etherscan.io/tx/0x7371368bba732e2c1c64b8876edc54c9cd218b6dc51b825defd99427857d0fdb|
