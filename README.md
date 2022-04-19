@@ -12,7 +12,6 @@ COST: 250000000000000000
 |Setcost 0|Check|https://ropsten.etherscan.io/tx/0xa81f4329ef8e56732e56a8b4be0e39b1b00dac6624730af88d712358a0ec8613|
 |----|-----|-------|
 |mint 1|Check|https://ropsten.etherscan.io/tx/0xcd40642c064296cf3f46d6f15861e56456fbdfb238b558064acd3e1ffc80ef50|
-|----|-----|-------|
 
 Contract: https://ropsten.etherscan.io/address/0xf9674832b82e08926d323219016cb16d65dceedb
 User wallet: https://ropsten.etherscan.io/address/0x4ab6260b6b6d86ec854668b95f46d58df936c287
