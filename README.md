@@ -13,18 +13,33 @@ COST: 250000000000000000
 |----|-----|-------|
 |mint 1|Check|https://ropsten.etherscan.io/tx/0xcd40642c064296cf3f46d6f15861e56456fbdfb238b558064acd3e1ffc80ef50|
 |----|-----|-------|
-
+|mint 1|Check|https://ropsten.etherscan.io/tx/0xcd40642c064296cf3f46d6f15861e56456fbdfb238b558064acd3e1ffc80ef50|
 
 
 
 https://ropsten.etherscan.io/address/0xf9674832b82e08926d323219016cb16d65dceedb
+User wallet
+|Uitvoering|Return|Link|
+|----|-----|-------|
+|Mint|Fail with error 'Ownable: caller is not the owner'|https://ropsten.etherscan.io/tx/0xc9f8356b32a3a7be0045fb85c379035295998a2368f585b06775b56723166bab|
 Read Contract met eigen wallet (niet owner)
-mint 
-0.25
-1
 
-Transaction has been reverted by the EVM: { "blockHash": "0x52f910bdb515e1a88320d96fa54f4e46b0008b09607b93c7478b477548961ef1", "blockNumber": 12205513, "contractAddress": null, "cumulativeGasUsed": 298044, "effectiveGasPrice": "0xb25db8bd2", "from": "0x4ab6260b6b6d86ec854668b95f46d58df936c287", "gasUsed": 35347, "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000", "status": false, "to": "0xf9674832b82e08926d323219016cb16d65dceedb", "transactionHash": "0xc9f8356b32a3a7be0045fb85c379035295998a2368f585b06775b56723166bab", "transactionIndex": 5, "type": "0x2", "events": {} }
+Owner wallet
+|Uitvoering|Return|Link|
+|----|-----|-------|
+|Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0x88d52d5d4c89ccd326c02a0a8d4d27b4f9a57dad75baa6cb95f92f3a048f3c9a|
+|----|-----|-------|
+|Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0xbc42a09356e57e980150e1339df9ddc37f4af6f01a527be781796a4144331a37|
+|----|-----|-------|
+|Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0xe241bdcbf7e587cded8cb1b9e9d1d87e3f1898d0b0a072b69ce2806542a0201e|
+|----|-----|-------|
+|Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0xa6558b5566af7cda28949fb017e75a0c23b8de38fbc9d1fec3bda50150733062|
+|----|-----|-------|
+|Minten voor liquidty|Check|https://ropsten.etherscan.io/tx/0x54e32f954b291a99b8fbb8b823567c797228342e823668dc3648a333e5194738|
 
-0.25 ETH in contract > 1.5 ETHER
-Write Contract: withdraw
-Return: FAIL https://ropsten.etherscan.io/tx/0xac260a6cc29224a56a7a9ba2d6f9f516f4a115b1ae2f2c00a54220f3cd67b9c4
+Resultaat Contract balance: 0.25 ETH -> 1.5 ETH
+
+|Uitvoering|Return|Link|
+|----|-----|-------|
+|Withdraw|FAIL|https://ropsten.etherscan.io/tx/0xac260a6cc29224a56a7a9ba2d6f9f516f4a115b1ae2f2c00a54220f3cd67b9c4|
+
